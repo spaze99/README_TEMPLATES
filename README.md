@@ -11,7 +11,7 @@ Using these templates, you can easily create professional and informative README
 - [Overview](#overview)
 - [Usage](#usage)
 - [Templates](#templates)
-  - [README Template for Programmers](github.com/spaze99/README_TEMPLATES/blob/main/programmers.md)
+  - [README Template for Programmers](programmers.md)
   - [README Template for Anime Fans](https://github.com/spaze99/README_TEMPLATES/blob/main/animefans.md)
   - [README Template for ASCII Art Project](github.com/spaze99/README_TEMPLATES/blob/main/asciiart.md)
   - [Short and Concise README Template](github.com/spaze99/README_TEMPLATES/blob/main/short.md)
