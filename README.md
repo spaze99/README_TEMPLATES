@@ -20,32 +20,6 @@ Using these templates, you can easily create professional and informative README
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
-## Usage
-
-To use these templates, simply copy the content of the desired README template from this repository and paste it into your project's README.md file. Customize the sections and content to fit your project's specific details and requirements. Feel free to add or remove sections as needed to create the most appropriate and informative README for your project.
-
-## Templates
-
-### README Template for Programmers
-
-A comprehensive README template for software projects targeted at programmers and developers.
-
-### README Template for Anime Fans
-
-A fun and engaging README template for projects related to anime and manga enthusiasts.
-
-### README Template for ASCII Art Project
-
-A specialized README template for projects showcasing ASCII art creations.
-
-### Short and Concise README Template
-
-A brief and to-the-point README template for smaller projects or those preferring simplicity.
-
-### README Template for Data Science Toolbox
-
-An informative README template for data science-related projects, focusing on data analysis tools and utilities.
-
 ## Contributing
 
 We encourage contributions from the community to improve and expand our collection of README templates. If you have an idea for a new template or want to enhance an existing one, follow our contribution guidelines to submit your changes.
