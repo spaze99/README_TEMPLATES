@@ -26,7 +26,7 @@ We encourage contributions from the community to improve and expand our collecti
 
 ## License
 
-This project is licensed under the [LICENSE MIT]. See the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE) file for details.
 
 ## Acknowledgments
 
