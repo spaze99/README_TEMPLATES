@@ -10,7 +10,7 @@ Using these templates, you can easily create professional and informative README
 
 - [Overview](#overview)
 - [Usage](#usage)
-- [Templates](#templates)
+- Templates
   - [README Template for Programmers](programmers.md)
   - [README Template for Anime Fans](animefans.md)
   - [README Template for ASCII Art Project](asciiart.md)
@@ -26,9 +26,8 @@ We encourage contributions from the community to improve and expand our collecti
 
 ## License
 
-This project is licensed under the [LICENSE MIT]. See the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [LICENSE MIT]. See the [LICENSE.md](LICENSE) file for details.
 
 ## Acknowledgments
 
 We want to express our gratitude to all contributors who helped create and refine these README templates. Your effort has made it easier for developers and enthusiasts to showcase their projects effectively.
-
