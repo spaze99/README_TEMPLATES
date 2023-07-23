@@ -11,11 +11,11 @@ Using these templates, you can easily create professional and informative README
 - [Overview](#overview)
 - [Usage](#usage)
 - [Templates](#templates)
-  - [README Template for Programmers](#readme-template-for-programmers)
-  - [README Template for Anime Fans](#readme-template-for-anime-fans)
-  - [README Template for ASCII Art Project](#readme-template-for-ascii-art-project)
-  - [Short and Concise README Template](#short-and-concise-readme-template)
-  - [README Template for Data Science Toolbox](#readme-template-for-data-science-toolbox)
+  - [README Template for Programmers](github.com/spaze99/README_TEMPLATES/blob/main/programmers.md)
+  - [README Template for Anime Fans](https://github.com/spaze99/README_TEMPLATES/blob/main/animefans.md)
+  - [README Template for ASCII Art Project](github.com/spaze99/README_TEMPLATES/blob/main/asciiart.md)
+  - [Short and Concise README Template](github.com/spaze99/README_TEMPLATES/blob/main/short.md)
+  - [README Template for Data Science Toolbox](github.com/spaze99/README_TEMPLATES/blob/main/dstoolbox)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -26,7 +26,7 @@ We encourage contributions from the community to improve and expand our collecti
 
 ## License
 
-This project is licensed under the [insert license name]. See the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [LICENSE MIT]. See the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
