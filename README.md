@@ -1,7 +1,5 @@
 # README_TEMPLATES
 
-![README Templates Banner](banner.png)
-
 ## Overview
 
 Welcome to the README_TEMPLATES repository! This repository contains a collection of comprehensive and user-friendly README templates that you can use for different types of projects. A well-crafted README is essential for effectively communicating your project's purpose, usage, and contribution guidelines to potential users and collaborators.
